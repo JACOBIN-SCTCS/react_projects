@@ -1,0 +1,54 @@
+.wrapper{
+  display:flex;
+  justify-content:center;
+}
+
+#quote-box{
+  background-color:white;
+  width:500px;
+  margin-top:150px;
+  border-radius:4px;
+  
+  
+  padding : 20px 40px ;
+}
+
+#text{
+  font-size:2em;
+ margin-bottom:5px;
+  height:auto;
+  
+}
+
+#new-quote{
+  margin-top:30px;
+  opacity:1;
+  color:#fff;
+  border:none;
+  float:right;
+  height:50px;
+
+}
+#tweet-quote{
+  
+  margin-top:30px;
+   opacity:1;
+  color:#fff;
+  height:30px;
+  width:30px;
+  border:none;
+  border-radius:2px;
+  float:left;
+  text-align:center;
+ 
+  
+}
+a{
+  color:white;
+}
+
+#author{
+  height:auto;
+  text-align:right;
+
+}
